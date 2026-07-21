@@ -50,6 +50,8 @@ Built in Power BI, the dashboard visualizes:
 - Revenue and margin by Category, Product, and Region
 - Products flagged below the 30% GMP threshold
 
+<img width="1324" height="765" alt="Screenshot 2026-07-21 172506" src="https://github.com/user-attachments/assets/181d8429-8f86-4c77-a25b-563f13d2c1b1" />
+
 Open [`DashBoard.pbix`](./DashBoard.pbix) in Power BI Desktop to explore, or view [`DashBoard.pbip`](./DashBoard.pbip) for the version-controlled project files.
 
 ## Key Findings & Pricing Recommendations
